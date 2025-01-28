@@ -30,7 +30,7 @@
   <br>
   <br>
   <a href="https://app.hackthebox.com/profile/1494498" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/1022683" alt="Hack The Box">
+    <img src="https://www.hackthebox.eu/badge/image/1494498" alt="Hack The Box">
   </a>
 </div>
 
