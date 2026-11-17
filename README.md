@@ -36,16 +36,3 @@
 
 
 ###
----
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3vjh&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&custom_title=Activity" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vjh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3vjh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="160" alt="languages graph"  />
-
-</div>
-
-###
-
-###
-</div>
